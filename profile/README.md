@@ -12,4 +12,4 @@ Thank you for a wonderful week, skateclub Community <3 - Meerkat
 
 Source Credits: Meerkat, AyeZee
 
-(If I forgot someone DM me on Discord)
+(If I forgot someone let me know)
