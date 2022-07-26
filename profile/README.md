@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to the skateclub Archive
 
-<!--
+Here you will find the source code to everything that powered the skateclub Launcher.
 
-**Here are some ideas to get you started:**
+All encryption keys, logins, API tokens, etc. have been removed from the code. You'll have to set those up
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With a little elbow grease, you should be able to get the backend up and running.
+
+Keep in mind that some code in these repositories is incomplete as the announcement of the shutdown was very sudden for us too. We will NOT be making any updates to the source code. Any bugs, unfinished or messy code will have to be fixed by you.
+
+Thank you for a wonderful week, skateclub Community <3 - Meerkat
+
+Source Credits: Meerkat, AyeZee
+
+(If I forgot someone DM me on Discord)
